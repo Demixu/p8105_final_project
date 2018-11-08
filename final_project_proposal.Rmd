@@ -30,3 +30,8 @@ https://data.cityofnewyork.us/Health/DOHMH-HIV-AIDS-Annual-Report/fju2-rdad
 The main challenge will be compiling the massive amounts of data and wrangling it to create a digestible report. We also expect to face some challenges in incorporating different datasets in a sensible way. 
 
 ## Planned Timeline
+Compile relevant datasets: Nov. 12
+Analyze datasets: Nov. 16
+Extract information and create analyses: Nov. 25
+Compile and create website: Dec. 1
+Polish: Dec. 6
