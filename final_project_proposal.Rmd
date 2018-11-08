@@ -1,0 +1,28 @@
+---
+title: "Proposal"
+author: "Kee-Young Shin"
+date: "November 7, 2018"
+output: github_document
+---
+
+## Group Members
+Jingyu Xu jx2371
+Runqi Ma rm3609
+Zixu Wang zw2541
+Man Luo ml4239
+Stephen Shin ks3663
+
+## The Tentative Project Title
+The Status of HIV in NYC
+
+## Motivation for Project
+HIV/AIDS have been a global health issue since the 1980s. Increase in health initiatives has raised awareness and provided better treatments for those suffering from these conditions. Though, much progress has been made, HIV/AIDS still pose a great threat to public health. This project will assess the current status of HIV/AIDS in NYC and attempt to find significant patterns within the data. 
+
+## Intended Final Products
+We intend to create visualizations that depict the current status of HIV in NYC. Additionally, we intend to assess the datasets to determine how much progress has been made over the years in terms of awareness and treatment. Ultimately, we hope to incorporate various forms of analyses including plots of distributions, regression analysis of possible factors that may influence the case rate, and a map using shiny to visualize the results that we have found. 
+
+## Anticipated Data Sources
+
+## The planned analyses / visualizations / coding challenges
+
+## Planned Timeline
