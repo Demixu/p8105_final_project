@@ -22,7 +22,11 @@ HIV/AIDS have been a global health issue since the 1980s. Increase in health ini
 We intend to create visualizations that depict the current status of HIV in NYC. Additionally, we intend to assess the datasets to determine how much progress has been made over the years in terms of awareness and treatment. Ultimately, we hope to incorporate various forms of analyses including plots of distributions, regression analysis of possible factors that may influence the case rate, and a map using shiny to visualize the results that we have found. 
 
 ## Anticipated Data Sources
+https://data.cityofnewyork.us/Health/HIV-AIDS-Diagnoses-by-Neighborhood-Sex-and-Race-Et/ykvb-493p
+https://data.cityofnewyork.us/Health/HIV-Testing-Locations/72ss-25qh/data
+https://data.cityofnewyork.us/Health/DOHMH-HIV-AIDS-Annual-Report/fju2-rdad
 
 ## The planned analyses / visualizations / coding challenges
+The main challenge will be compiling the massive amounts of data and wrangling it to create a digestible report. We also expect to face some challenges in incorporating different datasets in a sensible way. 
 
 ## Planned Timeline
